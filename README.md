@@ -9,7 +9,7 @@
 </p>
 
 # Projeto
-Cronômetro
+Cronômetroo
 
 # Status
 Finalizado
