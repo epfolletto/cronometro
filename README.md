@@ -26,9 +26,9 @@ O HTML da página é organizado da seguinte forma:
     - três botões (iniciar, pausar, zerar);
     - ao final faz a relação com o arquivo em JavaScript chamado "main.js".
 
-O documento "main.js" possui as seguintes instruções:
-    - possui uma função "criaHoraDosSegundos" para iniciar a data de 01/01/1970 e somar a ela a variável "segundos";
-    - através do comando "querySelector", selecionam-se os botões iniciar, pausar e zerar;
+O documento "main.js" possui as seguintes instruções:  
+    - possui uma função "criaHoraDosSegundos" para iniciar a data de 01/01/1970 e somar a ela a variável "segundos";  
+    - através do comando "querySelector", selecionam-se os botões iniciar, pausar e zerar;  
     - adiciona três "addEventListener" para escutar os cliques dos botões iniciar, pausar e zerar.
 
 # Funcionalidades
